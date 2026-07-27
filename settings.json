@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Joaos0301",
+    "password": "Joao@0301",
     "type": "offline"
   },
   "server": {
     "ip": "Embuscadofim-I7Mz.aternos.me",
     "port": 25866,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
